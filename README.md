@@ -1,4 +1,4 @@
-# test_for_Rishat
+# test_payment_service
 Тестовое задание для компании 'Ришат'
 
 Текст задания находится в файле task.txt
