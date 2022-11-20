@@ -8,7 +8,7 @@
 https://github.com/Stepan3006/test_payment_sevice
 
 Перейти в папку stripe_project:
-cd test_payment_sevice/
+cd payment_sevice/
 
 Создать .env файл, с параметрами:
 ``` 
